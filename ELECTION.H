@@ -44,7 +44,7 @@ int extractRollNo(char userID[15])
     return rollno;
 }
 
-/Provjerava da li je Branch kod validan ili nije
+//Provjerava da li je Branch kod validan ili nije
 int checkBranchCode(char userID[15])
 {
     char branchCode[6];
