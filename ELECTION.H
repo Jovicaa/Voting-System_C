@@ -443,7 +443,7 @@ void studentPanel()
             continue;
         }
         saveVote(userID,voteInput);
-        printf("\n\nThanks for your precious vote(Press Enter)");
+        printf("\n\nThanks for taking a vote(Press Enter)");
         getch();
     }
 };
