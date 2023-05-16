@@ -1,4 +1,4 @@
-# Voting-System_C
+# NEED HELP MAKING DECISIONS?
 Mini voting system
 
 This is a C program that implements a mini voting system. Here are the main components of the program:
